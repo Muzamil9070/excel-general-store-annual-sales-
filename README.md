@@ -3,7 +3,7 @@
 
 <H3>Overview:</H3>
 
-#README This project presents an interactive annual sales dashboard for a general store, developed using Microsoft Excel. The dashboard offers a comprehensive view of sales data, allowing users to analyze and explore sales trends efficiently.
+This project presents an interactive annual sales dashboard for a general store, developed using Microsoft Excel. The dashboard offers a comprehensive view of sales data, allowing users to analyze and explore sales trends efficiently.
 
 <H3>Features:</H3>
 
