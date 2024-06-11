@@ -1,7 +1,7 @@
 # excel-general-store-annual-sales-
-##General Store Annual Sales Dashboard
+#General Store Annual Sales Dashboard
 
-Overview:
+<h1>Overview:</h1>
 
 This project presents an interactive annual sales dashboard for a general store, developed using Microsoft Excel. The dashboard offers a comprehensive view of sales data, allowing users to analyze and explore sales trends efficiently.
 
