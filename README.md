@@ -1,5 +1,5 @@
 # excel-general-store-annual-sales-
-General Store Annual Sales Dashboard
+##General Store Annual Sales Dashboard
 
 Overview:
 
