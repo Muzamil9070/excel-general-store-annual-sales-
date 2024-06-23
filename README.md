@@ -30,9 +30,6 @@ Interact with pivot tables and charts to analyze sales performance by gender and
 
 Contributions and feedback are encouraged. If you have ideas for enhancements or spot any issues, feel free to fork the repository, make changes, and submit pull requests.
 
-<H3>License:</H3>
-
-This project is licensed under the MIT License.
 
 <H3>Credits:</H3>
 
